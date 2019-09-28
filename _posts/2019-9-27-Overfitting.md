@@ -3,7 +3,7 @@ layout: post
 title: What is overfitting? Why should we care about it?
 ---
 
-If you are reading this post, than you want to learn about overfitting as soon as possible. Let me not go into technical details yet, but tell you a little occasion that happened to me. I was born and lived in Armenia all my life. This month, I arrived in Vancouver to pursue Master of Data Science degree in UBC. I thought that I might experience some confusion in a new country, but that confusion came from the place which I didn't expect. **I confused handwritten digit 9 with 4!!**
+If you are reading this post, then you want to learn about overfitting as soon as possible. Let me not go into technical details yet, but tell you a little occasion that happened to me. I was born and lived in Armenia all my life. This month, I arrived in Vancouver to pursue Master of Data Science degree in UBC. I thought that I might experience some confusion in a new country, but that confusion came from the place which I didn't expect. **I confused handwritten digit 9 with 4!!**
 
 The reason behind this was the difference in how people write digits 9 and 4 in Canada and Armenia. In Canada, people do not have the curvy ending at the bottom of the number 9. First two pictures below represent how people write digit nine in Armenia (left) and in Canada (middle). The third picture depicts how people in Armenia write digit 4 (right). 
 
